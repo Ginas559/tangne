@@ -1,0 +1,15 @@
+
+  canvas {
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  body {
+    background-image: url('hot-girl.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0; /* Đảm bảo không có khoảng trống xung quanh */
+    padding: 0; /* Đảm bảo không có khoảng trống xung quanh */
+  }
+  
